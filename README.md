@@ -6,7 +6,12 @@ A minimum web server that serves your static files.
 go get github.com/CodinCat/goserver
 ```
 
-restart your terminal, then you can start to use the web server:
+If you don't have [Go](https://golang.org/) installed and using Windows, here is the pre-built binary (only windows 64bit for now): 
+https://github.com/CodinCat/goserver/releases/latest
+
+Download it and put it in your `PATH`, rename it to anything you like.
+
+Restart your terminal, then you can start to use the web server:
 
 ```
 cd my/web/project
@@ -17,6 +22,8 @@ It will listen on 8080 port by default. Or you can specify a port:
 goserver --port :7777
 ```
 
-don't forget the colon `:`
+(don't forget the colon `:`)
 
-that's all!
+The binary is portable, so you can even put it in your USB drive and use it anywhere.
+
+That's all!
