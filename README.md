@@ -26,4 +26,6 @@ goserver --port :7777
 
 The binary is portable, so you can even put it in your USB drive and use it anywhere.
 
+And I recommend [LivePage](https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh) extension for live reloading, it's super lightweight and easy to use.
+
 That's all!
